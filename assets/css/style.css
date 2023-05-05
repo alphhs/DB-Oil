@@ -7952,6 +7952,9 @@ ul  li span {
   height: 100%;
   transition: 0.3s ease;
 }
+.hover-container.permits img{
+  object-fit: scale-down;
+}
 .hover-container img:hover{
   transform: scale(1.04);
 }
